@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  justify-content: center;
+  
+}
+* .App {
+  display: flex;
+  flex-direction: column;
+  
+}
+* .App .formulario {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+}
+* .App .formulario label {
+  margin-bottom: 10px;
+}
+* .App .formulario input {
+  margin-bottom: 10px;
+}
+* .App .formulario select {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+* .App .formulario button {
+  margin-bottom: 10px;
+  margin-top: 10px;
+
+}
